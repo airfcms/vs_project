@@ -9,4 +9,5 @@ Pipelines {
     dockerRegistryUrl = 'https://airfcms.jfrog.io/'
     artifactoryGenericRegistry_ID = 'artifactory_generic_repository'
     //Version for deploy
+    //
 }
