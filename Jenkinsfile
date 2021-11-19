@@ -1,4 +1,3 @@
-
 #!groovy
 
 @Library('csw-airfcms-pipelines-library') _
