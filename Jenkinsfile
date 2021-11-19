@@ -3,7 +3,7 @@
 @Library('csw-airfcms-pipelines-library') _
 
 Pipelines {
-    repositoryName = 'hello_world'
+    repositoryName = 'vs_project'
     cmakeBuildDir = 'build'
     dockerImage = 'csw-docker-registry/csw-airfcms-ubuntu'
     dockerRegistryUrl = 'https://airfcms.jfrog.io/'
